@@ -6,6 +6,8 @@ My name is Pdawg. I am an aspiring software developer hoping to work at Microsof
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdawg-bytes&theme=tokyonight&layout=compact&langs_count=8)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&icon=0&color=0)](https://visitcount.itsvg.in)
 
