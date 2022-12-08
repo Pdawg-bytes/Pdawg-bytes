@@ -1,10 +1,10 @@
 # 👋 Hey there!
 My name is Pdawg. I am an aspiring software developer hoping to work at Microsoft. I am pretty new to app development, I started in March of 2022. I've made a lot of progress since then and I am making multiple apps. My favorite language is C#, and I use it to write .NET Apps for Windows! See you all around! Keep developing, and also, never stop using stack overflow :)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pdawg-bytes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdawg-bytes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&icon=0&color=0)](https://visitcount.itsvg.in)
