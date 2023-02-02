@@ -6,11 +6,11 @@ https://pdawg-site.vercel.app/
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=midnight-purple&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdawg-bytes&theme=tokyonight&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdawg-bytes&theme=midnight-purple&layout=compact&langs_count=10)
 
-![](https://github-readme-stats.vercel.app/api?username=Pdawg-bytes&theme=dark&show_icons=true&bg_color=00000000&hide_rank=true&hide_border=false&hide_title=false)
+![](https://github-readme-stats.vercel.app/api?username=Pdawg-bytes&theme=midnight-purple&show_icons=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&icon=0&color=0)](https://visitcount.itsvg.in)
 
