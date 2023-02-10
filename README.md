@@ -12,7 +12,7 @@ https://pdawg-site.vercel.app/
 
 ![](https://github-readme-stats.vercel.app/api?username=Pdawg-bytes&theme=midnight-purple&show_icons=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&label=Profile Views&color=6&icon=1&pretty=false)]
 
 
 # 💻 Tech Stack:
