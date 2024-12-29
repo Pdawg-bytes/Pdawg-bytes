@@ -2,7 +2,7 @@
 My name is Pdawg. I am a 15 year old aspiring software developer hoping to work at Microsoft. I'm an experienced developer in C#, but I know my way around a few other languages, too. I love experimenting with Windows in many weird ways. Thanks for stopping by!
 
 # Check out my website!
-https://pdawg-site.vercel.app/
+https://pdawg-bytes.github.io
 ---
 
 # 📊 GitHub Stats:
