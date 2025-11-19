@@ -9,5 +9,3 @@ Right now I'm working on:
 - .NET performance and JIT/runtime experiments
 
 I enjoy anything that involves understanding how things really work under the hood.
-
-[Check out my website!](https://pdawg-bytes.github.io/)
