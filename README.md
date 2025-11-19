@@ -1,19 +1,13 @@
-# 👋 Hey there!
-My name is Pdawg. I am a 16 year old aspiring software developer hoping to work at Microsoft. I'm an experienced developer in C#, but I know my way around a few other languages, too. I love experimenting with Windows in many weird ways. Thanks for stopping by!
+# 👋 Hey
+I’m Pdawg, a 16 year old developer who likes building emulators, tinkering with low-level systems, and pushing C# into places it probably shouldn't go. I have experience with other languages too, like C/++, Java, JavaScript/TypeScript, and Python, but I largely prefer C#.
 
-# Check out my website!
-https://pdawg-bytes.github.io
----
+Right now I'm working on:
+- A GBA emulator with performance, decent accuracy, and clean code in mind.
+- A Z80 emulator (more-or-less complete)
+- Embedded reverse-engineering & hacking
+- Windows app development from time-to-time
+- .NET performance and JIT/runtime experiments
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pdawg-bytes&theme=midnight-purple&hide_border=false)
+I enjoy anything that involves understanding how things really work under the hood.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdawg-bytes&theme=midnight-purple&layout=compact&langs_count=10)
-
-![](https://github-readme-stats.vercel.app/api?username=Pdawg-bytes&theme=midnight-purple&show_icons=true)
----
-[![](https://visitcount.itsvg.in/api?id=Pdawg-bytes&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[Check out my website!](https://pdawg-bytes.github.io/)
